@@ -1,0 +1,12 @@
+E:\CURSOANGULARDOTNET\BACK\src\CursoAngularDotNet.Domain\bin\Debug\net5.0\CursoAngularDotNet.Domain.deps.json
+E:\CURSOANGULARDOTNET\BACK\src\CursoAngularDotNet.Domain\bin\Debug\net5.0\CursoAngularDotNet.Domain.dll
+E:\CURSOANGULARDOTNET\BACK\src\CursoAngularDotNet.Domain\bin\Debug\net5.0\ref\CursoAngularDotNet.Domain.dll
+E:\CURSOANGULARDOTNET\BACK\src\CursoAngularDotNet.Domain\bin\Debug\net5.0\CursoAngularDotNet.Domain.pdb
+E:\CURSOANGULARDOTNET\BACK\src\CursoAngularDotNet.Domain\obj\Debug\net5.0\CursoAngularDotNet.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\CURSOANGULARDOTNET\BACK\src\CursoAngularDotNet.Domain\obj\Debug\net5.0\CursoAngularDotNet.Domain.AssemblyInfoInputs.cache
+E:\CURSOANGULARDOTNET\BACK\src\CursoAngularDotNet.Domain\obj\Debug\net5.0\CursoAngularDotNet.Domain.AssemblyInfo.cs
+E:\CURSOANGULARDOTNET\BACK\src\CursoAngularDotNet.Domain\obj\Debug\net5.0\CursoAngularDotNet.Domain.csproj.CoreCompileInputs.cache
+E:\CURSOANGULARDOTNET\BACK\src\CursoAngularDotNet.Domain\obj\Debug\net5.0\CursoAngularDotNet.Domain.dll
+E:\CURSOANGULARDOTNET\BACK\src\CursoAngularDotNet.Domain\obj\Debug\net5.0\ref\CursoAngularDotNet.Domain.dll
+E:\CURSOANGULARDOTNET\BACK\src\CursoAngularDotNet.Domain\obj\Debug\net5.0\CursoAngularDotNet.Domain.pdb
+E:\CURSOANGULARDOTNET\BACK\src\CursoAngularDotNet.Domain\obj\Debug\net5.0\CursoAngularDotNet.Domain.csprojAssemblyReference.cache

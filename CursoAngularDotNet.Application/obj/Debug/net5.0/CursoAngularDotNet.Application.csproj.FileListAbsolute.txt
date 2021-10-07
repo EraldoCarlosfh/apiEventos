@@ -1,0 +1,17 @@
+E:\CURSOANGULARDOTNET\BACK\src\CursoAngularDotNet.Application\bin\Debug\net5.0\CursoAngularDotNet.Application.deps.json
+E:\CURSOANGULARDOTNET\BACK\src\CursoAngularDotNet.Application\bin\Debug\net5.0\CursoAngularDotNet.Application.dll
+E:\CURSOANGULARDOTNET\BACK\src\CursoAngularDotNet.Application\bin\Debug\net5.0\ref\CursoAngularDotNet.Application.dll
+E:\CURSOANGULARDOTNET\BACK\src\CursoAngularDotNet.Application\bin\Debug\net5.0\CursoAngularDotNet.Application.pdb
+E:\CURSOANGULARDOTNET\BACK\src\CursoAngularDotNet.Application\bin\Debug\net5.0\CursoAngularDotNet.Domain.dll
+E:\CURSOANGULARDOTNET\BACK\src\CursoAngularDotNet.Application\bin\Debug\net5.0\CursoAngularDotNet.Persistence.dll
+E:\CURSOANGULARDOTNET\BACK\src\CursoAngularDotNet.Application\bin\Debug\net5.0\CursoAngularDotNet.Domain.pdb
+E:\CURSOANGULARDOTNET\BACK\src\CursoAngularDotNet.Application\bin\Debug\net5.0\CursoAngularDotNet.Persistence.pdb
+E:\CURSOANGULARDOTNET\BACK\src\CursoAngularDotNet.Application\obj\Debug\net5.0\CursoAngularDotNet.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\CURSOANGULARDOTNET\BACK\src\CursoAngularDotNet.Application\obj\Debug\net5.0\CursoAngularDotNet.Application.AssemblyInfoInputs.cache
+E:\CURSOANGULARDOTNET\BACK\src\CursoAngularDotNet.Application\obj\Debug\net5.0\CursoAngularDotNet.Application.AssemblyInfo.cs
+E:\CURSOANGULARDOTNET\BACK\src\CursoAngularDotNet.Application\obj\Debug\net5.0\CursoAngularDotNet.Application.csproj.CoreCompileInputs.cache
+E:\CURSOANGULARDOTNET\BACK\src\CursoAngularDotNet.Application\obj\Debug\net5.0\CursoAngularDotNet.Application.csproj.CopyComplete
+E:\CURSOANGULARDOTNET\BACK\src\CursoAngularDotNet.Application\obj\Debug\net5.0\CursoAngularDotNet.Application.dll
+E:\CURSOANGULARDOTNET\BACK\src\CursoAngularDotNet.Application\obj\Debug\net5.0\ref\CursoAngularDotNet.Application.dll
+E:\CURSOANGULARDOTNET\BACK\src\CursoAngularDotNet.Application\obj\Debug\net5.0\CursoAngularDotNet.Application.pdb
+E:\CURSOANGULARDOTNET\BACK\src\CursoAngularDotNet.Application\obj\Debug\net5.0\CursoAngularDotNet.Application.csprojAssemblyReference.cache
